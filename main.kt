@@ -5,6 +5,8 @@ fun main(args: Array<String>) {
     kako si
 
             dobro sam
+
+            hajduk spit
 }
            
 
