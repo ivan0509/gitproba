@@ -1,1 +1,3 @@
 proba utorak
+
+ovo je napravljeno kroz INtellJ
